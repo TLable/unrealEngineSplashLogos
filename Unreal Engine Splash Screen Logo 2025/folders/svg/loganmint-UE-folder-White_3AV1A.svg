@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128.00002"
+   viewBox="10.24 10.24 33.866669 33.866671"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   inkscape:export-filename="../loganmint-Y_Sand-unrealGameEngine/loganmint-Y-Sand-UE-folder-white_1AV1A.svg"
+   inkscape:export-xdpi="383.92001"
+   inkscape:export-ydpi="383.92001"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="loganmint-unrealGameEngine-icons-Art-7AV1A.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="-11.136932"
+     inkscape:cy="71.948115"
+     inkscape:window-width="3400"
+     inkscape:window-height="1368"
+     inkscape:window-x="1080"
+     inkscape:window-y="2160"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false" /><defs
+     id="defs2"><style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#6e6e6e; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style><filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Channel Painting"
+       id="filter1466-3-1-9"
+       x="0"
+       y="0"
+       width="1"
+       height="1"><feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="7.1"
+         k2="1.3"
+         result="composite1"
+         id="feComposite1452-1-2-0"
+         k3="0"
+         k4="0" /><feColorMatrix
+         in="composite1"
+         values="1"
+         type="saturate"
+         result="colormatrix1"
+         id="feColorMatrix1454-4-8-6" /><feFlood
+         flood-opacity="1"
+         flood-color="rgb(85,82,76)"
+         result="flood1"
+         id="feFlood1456-6-8-8" /><feBlend
+         in="flood1"
+         in2="colormatrix1"
+         mode="multiply"
+         result="blend1"
+         id="feBlend1458-9-9-7" /><feBlend
+         in2="blend1"
+         mode="screen"
+         result="blend2"
+         id="feBlend1460-4-2-9" /><feColorMatrix
+         in="blend2"
+         values="1"
+         type="saturate"
+         result="colormatrix2"
+         id="feColorMatrix1462-2-8-0" /><feComposite
+         in="colormatrix2"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic"
+         id="feComposite1464-2-8-3" /><feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix67240-8-3" /><feColorMatrix
+         id="feColorMatrix67242-6-3"
+         type="hueRotate"
+         values="274"
+         result="color1"
+         in="fbSourceGraphic" /><feColorMatrix
+         id="feColorMatrix67244-8-7"
+         type="saturate"
+         values="0.418468"
+         result="fbSourceGraphic" /><feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix69136-3-3" /><feColorMatrix
+         id="feColorMatrix69138-8-2"
+         values="0.953617"
+         type="saturate"
+         result="colormatrix1"
+         in="fbSourceGraphic" /><feColorMatrix
+         id="feColorMatrix69140-3-6"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 7.50649 2.25805 2.08444 7.97601 0 "
+         in="fbSourceGraphic"
+         result="colormatrix2" /><feFlood
+         id="feFlood69142-3-5"
+         flood-color="rgb(0,255,255)"
+         flood-opacity="1"
+         result="flood" /><feComposite
+         in2="colormatrix2"
+         id="feComposite69144-3-2"
+         operator="out"
+         result="composite1" /><feMerge
+         id="feMerge69146-8-6"
+         result="merge"><feMergeNode
+           id="feMergeNode69148-0-5"
+           in="colormatrix1" /><feMergeNode
+           id="feMergeNode69150-4-8"
+           in="composite1" /></feMerge><feComposite
+         in2="fbSourceGraphic"
+         id="feComposite69152-7-7"
+         in="merge"
+         operator="in"
+         result="composite2" /></filter><style
+       id="style1">
+      .cls-1 {
+        fill: #ff585d;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #cb333b;
+      }
+
+      .cls-3 {
+        fill: #fefefe;
+      }
+
+      .cls-4 {
+        fill: #418fde;
+      }
+    </style><linearGradient
+       id="linearGradient4406"
+       inkscape:swatch="gradient"><stop
+         id="stop4408"
+         style="stop-color:#4e4e4e;stop-opacity:1"
+         offset="0" /><stop
+         id="stop4410"
+         style="stop-color:#141414;stop-opacity:1"
+         offset="1" /></linearGradient><linearGradient
+       id="linearGradient3320"
+       inkscape:swatch="gradient"><stop
+         offset="0"
+         style="stop-color:#4e4e4e;stop-opacity:1"
+         id="stop3323" /><stop
+         offset="1"
+         style="stop-color:#b9bac2;stop-opacity:1"
+         id="stop3325" /></linearGradient><linearGradient
+       id="linearGradient6213"
+       inkscape:swatch="solid"><stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6215" /></linearGradient></defs><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-154.84726,-173.82949)"
+     style="display:inline"><g
+       id="g258366"
+       inkscape:label="#g4142 Folder"
+       transform="matrix(0.26458333,0,0,0.26458333,165.08726,184.08839)"
+       style="display:inline"
+       inkscape:export-filename="../loganmint-Y_Sand-unrealGameEngine/loganmint-UE-folder-Black_3AV1A.svg"
+       inkscape:export-xdpi="384.00003"
+       inkscape:export-ydpi="384.00003"><rect
+         y="-0.071428001"
+         x="0"
+         height="128"
+         width="128"
+         id="rect258348"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /><g
+         id="g258364"
+         transform="matrix(1.9285714,0,0,1.9215686,2.2857152,1.4775925)"
+         style="display:inline"><rect
+           style="opacity:0.2"
+           width="56"
+           height="36"
+           x="4"
+           y="22"
+           rx="2.8"
+           ry="2.8"
+           id="rect258350" /><path
+           style="fill:#e0a84f;fill-opacity:1"
+           d="M 4,46.2 C 4,47.751 5.2488,49 6.8,49 H 57.2 C 58.751,49 60,47.751 60,46.2 V 15.8 C 60,14.249 58.751,13 57.2,13 H 32 C 27.8,13 26.4,7 22.2,7 H 6.8 C 5.2488,7 4,8.2488 4,9.8"
+           id="path258352" /><rect
+           style="opacity:0.2"
+           width="56"
+           height="36"
+           x="4"
+           y="20"
+           rx="2.8"
+           ry="2.8"
+           id="rect258354" /><rect
+           style="fill:#e4e4e4"
+           width="48"
+           height="22"
+           x="8"
+           y="16"
+           rx="2.8"
+           ry="2.8"
+           id="rect258356" /><g
+           id="g258360"
+           transform="matrix(1.3999411,0,0,1.3845614,-1.5997633,-1.1528531)"><rect
+             style="fill:#f9c470"
+             width="40"
+             height="26"
+             x="4"
+             y="16"
+             rx="2"
+             ry="2"
+             id="rect258358" /></g><path
+           style="opacity:0.1;fill:#ffffff"
+           d="M 6.8008,7 C 5.2496,7 4,8.2496 4,9.8008 V 10.801 C 4,9.2496 5.2496,8 6.8008,8 H 22.199 c 4.2,0 5.601,6 9.801,6 H 57.199 C 58.75,14 60,15.25 60,16.801 v -1 C 60,14.25 58.75,13 57.199,13 H 32 C 27.8,13 26.399,7 22.199,7 Z"
+           id="path258362" /></g></g><path
+       d="m 181.60632,197.13062 c -3.24504,0 -5.88082,2.6358 -5.88082,5.88084 0,3.24504 2.63578,5.88082 5.88082,5.88082 3.24504,0 5.88084,-2.63578 5.88084,-5.88082 0,-3.24504 -2.6358,-5.88084 -5.88084,-5.88084 z m 0,0.51139 c 2.96839,0 5.36945,2.40106 5.36945,5.36945 0,2.96838 -2.40106,5.36945 -5.36945,5.36945 -2.96838,0 -5.36945,-2.40107 -5.36945,-5.36945 0,-2.96839 2.40107,-5.36945 5.36945,-5.36945 z m -0.35256,1.66197 c -2.00656,0.47741 -4.33771,2.91643 -4.11099,4.76218 1.09167,-1.92565 1.83077,-2.18733 2.03152,-2.18733 0.20175,0 0.31062,0.10887 0.31062,0.34158 v 2.8695 c 0,0.35657 -0.34457,0.31362 -0.57329,0.27867 0.84696,1.26346 2.82255,1.35035 2.82255,1.35035 l 0.88492,-0.96183 0.85296,0.72911 c 1.29942,-0.84097 2.15737,-2.26623 2.15737,-2.48197 -0.64322,0.70914 -1.19554,0.83798 -1.31939,0.83798 -0.12385,0 -0.3256,-0.0149 -0.3256,-0.18577 v -3.40385 c 0,-0.29564 0.81301,-1.26546 1.06969,-1.59206 -1.69094,0.44346 -2.34214,1.28843 -2.34214,1.28843 0,0 -0.22772,-0.17079 -0.72911,-0.17079 0.18777,0.1598 0.45045,0.44945 0.45045,0.79103 v 3.1172 c 0,0 -0.55932,0.4035 -0.88492,0.4035 -0.3256,0 -0.55832,-0.13883 -0.55832,-0.38752 v -3.72345 c 0,0 -0.46543,0.3266 -0.46543,-0.63623 0,-0.48041 0.72911,-1.03873 0.72911,-1.03873 z"
+       id="path353951"
+       style="display:inline;fill:#ffffff;stroke-width:0.255689"
+       inkscape:label="path1-5  UE White Solid LetterU Logo - svg"
+       inkscape:export-filename="../loganmint-Y_Sand-unrealGameEngine/loganmint-UE-folder-Black_3AV1A.svg"
+       inkscape:export-xdpi="384.00003"
+       inkscape:export-ydpi="384.00003" /><g
+       id="g7-5"
+       transform="matrix(0.00758973,0,0,0.00758973,169.90949,208.42741)"
+       inkscape:label="g7-5 Unreal Engine Alpha LetterU White TitleText - svg"
+       style="display:inline"
+       sodipodi:insensitive="true">
+	<path
+   class="st0"
+   d="m 694.41,218.28 c 0,30.3 -16.64,49.92 -50.17,49.92 -33.53,0 -50.42,-19.62 -50.42,-49.92 v -87.92 h -50.66 v 91.89 c 0,52.9 36.26,87.67 101.08,87.67 64.82,0 100.83,-34.77 100.83,-87.67 v -91.89 h -50.66 z"
+   id="path1-9" />
+	<polygon
+   class="st0"
+   points="939.93,304.2 984.38,304.2 984.38,130.36 935.46,130.36 935.46,236.65 832.39,130.36 778.75,130.36 778.75,304.2 827.67,304.2 827.67,189.96 "
+   id="polygon1-4" />
+	<path
+   class="st0"
+   d="m 1221.41,189.71 c 0,-39.74 -34.52,-59.36 -78.98,-59.36 H 1020.49 V 304.2 h 50.42 v -54.89 h 51.16 l 45.95,54.89 h 58.86 l -51.16,-59.11 c 27.31,-7.94 45.69,-26.32 45.69,-55.38 z m -82.7,22.85 h -68.05 v -43.71 h 68.05 c 18.13,0 31.29,4.97 31.29,21.85 0,16.88 -13.16,21.86 -31.29,21.86 z"
+   id="path2-90" />
+	<polygon
+   class="st0"
+   points="1431.06,130.36 1248.27,130.36 1248.27,304.2 1433.79,304.2 1433.79,265.46 1298.19,265.46 1298.19,234.67 1407.72,234.67 1407.72,197.66 1298.19,197.66 1298.19,169.1 1431.06,169.1 "
+   id="polygon2-9" />
+	<path
+   class="st0"
+   d="m 1534.89,130.36 -89.9,173.85 h 53.15 l 16.39,-33.28 h 95.37 l 16.39,33.28 h 53.89 l -89.9,-173.85 z m -2.98,104.55 30.3,-61.59 30.05,61.59 z"
+   id="path3-17" />
+	<polygon
+   class="st0"
+   points="1746.51,130.36 1695.84,130.36 1695.84,304.2 1863.48,304.2 1863.48,263.48 1746.51,263.48 "
+   id="polygon3-7" />
+	<polygon
+   class="st0"
+   points="2135.67,130.36 1952.88,130.36 1952.88,304.2 2138.4,304.2 2138.4,265.46 2002.8,265.46 2002.8,234.67 2112.32,234.67 2112.32,197.66 2002.8,197.66 2002.8,169.1 2135.67,169.1 "
+   id="polygon4-1" />
+	<polygon
+   class="st0"
+   points="2327.47,304.2 2371.92,304.2 2371.92,130.36 2323,130.36 2323,236.65 2219.93,130.36 2166.29,130.36 2166.29,304.2 2215.21,304.2 2215.21,189.96 "
+   id="polygon5-1" />
+	<path
+   class="st0"
+   d="m 2508.36,239.14 h 57.62 v 15.65 c -12.17,11.18 -29.06,15.4 -50.42,15.4 -42.22,0 -66.06,-18.63 -66.06,-52.9 0,-34.02 23.1,-52.65 65.32,-52.65 23.35,0 38.99,5.96 53.89,19.37 l 37,-27.32 c -18.13,-16.89 -49.17,-32.04 -92.14,-32.04 -71.28,0 -115.48,33.78 -115.48,92.64 0,58.86 44.21,92.64 115.48,92.64 46.44,0 80.71,-15.4 99.34,-38.49 v -67.8 h -104.56 v 35.5 z"
+   id="path5-59" />
+	<rect
+   x="2642.76"
+   y="130.36"
+   class="st0"
+   width="50.66"
+   height="173.85001"
+   id="rect5-77" />
+	<polygon
+   class="st0"
+   points="2890.19,304.2 2934.65,304.2 2934.65,130.36 2885.72,130.36 2885.72,236.65 2782.66,130.36 2729.01,130.36 2729.01,304.2 2777.94,304.2 2777.94,189.96 "
+   id="polygon6-6" />
+	<polygon
+   class="st0"
+   points="3153.54,169.1 3153.54,130.36 2970.75,130.36 2970.75,304.2 3156.27,304.2 3156.27,265.46 3020.67,265.46 3020.67,234.67 3130.2,234.67 3130.2,197.66 3020.67,197.66 3020.67,169.1 "
+   id="polygon7-73" />
+	<path
+   class="st0"
+   d="M 217.28,0 C 97.28,0 0,97.28 0,217.28 c 0,120 97.28,217.28 217.28,217.28 120,0 217.28,-97.28 217.28,-217.28 C 434.56,97.28 337.28,0 217.28,0 Z m 55.58,338.08 -21.33,-23.99 -36,36.19 c -20.48,-0.27 -40.63,-5.28 -58.86,-14.63 -18.23,-9.35 -34.05,-22.79 -46.22,-39.27 3.82,1.19 7.77,1.94 11.77,2.22 5.9,0.11 12.28,-2.06 12.28,-11.96 v -97.67 c 0.08,-2.51 -0.42,-5.01 -1.47,-7.29 -1.05,-2.28 -2.62,-4.28 -4.59,-5.85 -1.96,-1.57 -4.27,-2.65 -6.72,-3.17 -2.46,-0.52 -5,-0.45 -7.43,0.18 -16.67,3.84 -29.98,45.43 -29.98,45.43 -0.19,-19.2 3.81,-38.22 11.71,-55.72 7.9,-17.5 19.52,-33.07 34.05,-45.63 19.12,-16.54 42.54,-27.34 67.53,-31.15 -18.2,10.37 -28.43,27.28 -28.43,41.47 0,22.84 13.76,20.07 17.83,16.71 v 131.81 c 0.69,1.65 1.6,3.21 2.69,4.64 1.82,2.52 4.21,4.56 6.98,5.96 2.77,1.4 5.83,2.12 8.94,2.1 13.77,0 31.64,-15.72 31.64,-15.72 V 166.07 c 0,-10.85 -8.18,-23.97 -16.38,-28.47 0,0 15.17,-2.69 26.87,6.27 2.2,-2.69 4.53,-5.25 7,-7.7 27.31,-26.8 53.04,-34.43 74.46,-38.25 0,0 -38.96,30.62 -38.96,71.7 0,30.55 0.79,105.05 0.79,105.05 14.46,13.96 35.95,-6.21 55.38,-26.1 -3.76,18.07 -20.42,64.42 -73.55,89.51 z"
+   id="path7-65"
+   style="display:inline" />
+</g></g><style
+     type="text/css"
+     id="style3571">
+	.st0{fill:#000000;}
+</style><style
+     type="text/css"
+     id="style3681">
+	.st0{fill:#000000;}
+</style><style
+     type="text/css"
+     id="style26693">
+	.st0{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style26746">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style35389">
+	.st0{fill:#353535;}
+	.st1{enable-background:new    ;}
+	.st2{fill:#373737;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#373737;}
+	.st4{fill:#1A1A1A;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#353535;}
+	.st6{fill:#333333;}
+</style><style
+     type="text/css"
+     id="style1-3">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-0">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><style
+     type="text/css"
+     id="style1-6">
+	.st0{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-9">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-61">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><style
+     type="text/css"
+     id="style1-4">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-5">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style></svg>

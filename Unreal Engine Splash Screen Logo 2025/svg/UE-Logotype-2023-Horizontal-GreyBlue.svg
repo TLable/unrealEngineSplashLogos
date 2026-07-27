@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3156.27"
+   height="434.56"
+   viewBox="10.24 10.24 835.09648 114.97733"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs2"><style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#6e6e6e; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style><filter
+       style="color-interpolation-filters:sRGB"
+       id="filter1466-3-1-9"
+       x="0"
+       y="0"
+       width="1"
+       height="1"><feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="7.1"
+         k2="1.3"
+         result="composite1"
+         id="feComposite1452-1-2-0"
+         k3="0"
+         k4="0" /><feColorMatrix
+         in="composite1"
+         values="1"
+         type="saturate"
+         result="colormatrix1"
+         id="feColorMatrix1454-4-8-6" /><feFlood
+         flood-opacity="1"
+         flood-color="rgb(85,82,76)"
+         result="flood1"
+         id="feFlood1456-6-8-8" /><feBlend
+         in="flood1"
+         in2="colormatrix1"
+         mode="multiply"
+         result="blend1"
+         id="feBlend1458-9-9-7" /><feBlend
+         in2="blend1"
+         mode="screen"
+         result="blend2"
+         id="feBlend1460-4-2-9" /><feColorMatrix
+         in="blend2"
+         values="1"
+         type="saturate"
+         result="colormatrix2"
+         id="feColorMatrix1462-2-8-0" /><feComposite
+         in="colormatrix2"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic"
+         id="feComposite1464-2-8-3" /><feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix67240-8-3" /><feColorMatrix
+         id="feColorMatrix67242-6-3"
+         type="hueRotate"
+         values="274"
+         result="color1"
+         in="fbSourceGraphic" /><feColorMatrix
+         id="feColorMatrix67244-8-7"
+         type="saturate"
+         values="0.418468"
+         result="fbSourceGraphic" /><feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix69136-3-3" /><feColorMatrix
+         id="feColorMatrix69138-8-2"
+         values="0.953617"
+         type="saturate"
+         result="colormatrix1"
+         in="fbSourceGraphic" /><feColorMatrix
+         id="feColorMatrix69140-3-6"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 7.50649 2.25805 2.08444 7.97601 0 "
+         in="fbSourceGraphic"
+         result="colormatrix2" /><feFlood
+         id="feFlood69142-3-5"
+         flood-color="rgb(0,255,255)"
+         flood-opacity="1"
+         result="flood" /><feComposite
+         in2="colormatrix2"
+         id="feComposite69144-3-2"
+         operator="out"
+         result="composite1" /><feMerge
+         id="feMerge69146-8-6"
+         result="merge"><feMergeNode
+           id="feMergeNode69148-0-5"
+           in="colormatrix1" /><feMergeNode
+           id="feMergeNode69150-4-8"
+           in="composite1" /></feMerge><feComposite
+         in2="fbSourceGraphic"
+         id="feComposite69152-7-7"
+         in="merge"
+         operator="in"
+         result="composite2" /></filter><style
+       id="style1">
+      .cls-1 {
+        fill: #ff585d;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #cb333b;
+      }
+
+      .cls-3 {
+        fill: #fefefe;
+      }
+
+      .cls-4 {
+        fill: #418fde;
+      }
+    </style><linearGradient
+       id="linearGradient4406"><stop
+         id="stop4408"
+         style="stop-color:#4e4e4e;stop-opacity:1"
+         offset="0" /><stop
+         id="stop4410"
+         style="stop-color:#141414;stop-opacity:1"
+         offset="1" /></linearGradient><linearGradient
+       id="linearGradient3320"><stop
+         offset="0"
+         style="stop-color:#4e4e4e;stop-opacity:1"
+         id="stop3323" /><stop
+         offset="1"
+         style="stop-color:#b9bac2;stop-opacity:1"
+         id="stop3325" /></linearGradient><linearGradient
+       id="linearGradient6213"><stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6215" /></linearGradient></defs><g
+     id="layer1"
+     transform="translate(-154.72659,-174.14745)"
+     style="display:inline"><g
+       id="g30903"
+       transform="matrix(0.26458334,0,0,0.26458334,164.96659,184.38745)"
+       style="fill:#455a64;fill-opacity:1">
+	<path
+   class="st0"
+   d="m 694.41,218.28 c 0,30.3 -16.64,49.92 -50.17,49.92 -33.53,0 -50.42,-19.62 -50.42,-49.92 v -87.92 h -50.66 v 91.89 c 0,52.9 36.26,87.67 101.08,87.67 64.82,0 100.83,-34.77 100.83,-87.67 v -91.89 h -50.66 z"
+   id="path30877"
+   style="fill:#455a64;fill-opacity:1" />
+	<polygon
+   class="st0"
+   points="984.38,304.2 984.38,130.36 935.46,130.36 935.46,236.65 832.39,130.36 778.75,130.36 778.75,304.2 827.67,304.2 827.67,189.96 939.93,304.2 "
+   id="polygon30879"
+   style="fill:#455a64;fill-opacity:1" />
+	<path
+   class="st0"
+   d="m 1221.41,189.71 c 0,-39.74 -34.52,-59.36 -78.98,-59.36 H 1020.49 V 304.2 h 50.42 v -54.89 h 51.16 l 45.95,54.89 h 58.86 l -51.16,-59.11 c 27.31,-7.94 45.69,-26.32 45.69,-55.38 z m -82.7,22.85 h -68.05 v -43.71 h 68.05 c 18.13,0 31.29,4.97 31.29,21.85 0,16.88 -13.16,21.86 -31.29,21.86 z"
+   id="path30881"
+   style="fill:#455a64;fill-opacity:1" />
+	<polygon
+   class="st0"
+   points="1248.27,130.36 1248.27,304.2 1433.79,304.2 1433.79,265.46 1298.19,265.46 1298.19,234.67 1407.72,234.67 1407.72,197.66 1298.19,197.66 1298.19,169.1 1431.06,169.1 1431.06,130.36 "
+   id="polygon30883"
+   style="fill:#455a64;fill-opacity:1" />
+	<path
+   class="st0"
+   d="m 1534.89,130.36 -89.9,173.85 h 53.15 l 16.39,-33.28 h 95.37 l 16.39,33.28 h 53.89 l -89.9,-173.85 z m -2.98,104.55 30.3,-61.59 30.05,61.59 z"
+   id="path30885"
+   style="fill:#455a64;fill-opacity:1" />
+	<polygon
+   class="st0"
+   points="1695.84,130.36 1695.84,304.2 1863.48,304.2 1863.48,263.48 1746.51,263.48 1746.51,130.36 "
+   id="polygon30887"
+   style="fill:#455a64;fill-opacity:1" />
+	<polygon
+   class="st0"
+   points="1952.88,130.36 1952.88,304.2 2138.4,304.2 2138.4,265.46 2002.8,265.46 2002.8,234.67 2112.32,234.67 2112.32,197.66 2002.8,197.66 2002.8,169.1 2135.67,169.1 2135.67,130.36 "
+   id="polygon30889"
+   style="fill:#455a64;fill-opacity:1" />
+	<polygon
+   class="st0"
+   points="2371.92,304.2 2371.92,130.36 2323,130.36 2323,236.65 2219.93,130.36 2166.29,130.36 2166.29,304.2 2215.21,304.2 2215.21,189.96 2327.47,304.2 "
+   id="polygon30891"
+   style="fill:#455a64;fill-opacity:1" />
+	<path
+   class="st0"
+   d="m 2508.36,239.14 h 57.62 v 15.65 c -12.17,11.18 -29.06,15.4 -50.42,15.4 -42.22,0 -66.06,-18.63 -66.06,-52.9 0,-34.02 23.1,-52.65 65.32,-52.65 23.35,0 38.99,5.96 53.89,19.37 l 37,-27.32 c -18.13,-16.89 -49.17,-32.04 -92.14,-32.04 -71.28,0 -115.48,33.78 -115.48,92.64 0,58.86 44.21,92.64 115.48,92.64 46.44,0 80.71,-15.4 99.34,-38.49 v -67.8 h -104.56 v 35.5 z"
+   id="path30893"
+   style="fill:#455a64;fill-opacity:1" />
+	<rect
+   x="2642.76"
+   y="130.36"
+   class="st0"
+   width="50.66"
+   height="173.85001"
+   id="rect30895"
+   style="fill:#455a64;fill-opacity:1" />
+	<polygon
+   class="st0"
+   points="2934.65,304.2 2934.65,130.36 2885.72,130.36 2885.72,236.65 2782.66,130.36 2729.01,130.36 2729.01,304.2 2777.94,304.2 2777.94,189.96 2890.19,304.2 "
+   id="polygon30897"
+   style="fill:#455a64;fill-opacity:1" />
+	<polygon
+   class="st0"
+   points="3153.54,130.36 2970.75,130.36 2970.75,304.2 3156.27,304.2 3156.27,265.46 3020.67,265.46 3020.67,234.67 3130.2,234.67 3130.2,197.66 3020.67,197.66 3020.67,169.1 3153.54,169.1 "
+   id="polygon30899"
+   style="fill:#455a64;fill-opacity:1" />
+	<path
+   class="st0"
+   d="M 217.28,0 C 97.28,0 0,97.28 0,217.28 c 0,120 97.28,217.28 217.28,217.28 120,0 217.28,-97.28 217.28,-217.28 C 434.56,97.28 337.28,0 217.28,0 Z m 55.58,338.08 -21.33,-23.99 -36,36.19 c -20.48,-0.27 -40.63,-5.28 -58.86,-14.63 -18.23,-9.35 -34.05,-22.79 -46.22,-39.27 3.82,1.19 7.77,1.94 11.77,2.22 5.9,0.11 12.28,-2.06 12.28,-11.96 v -97.67 c 0.08,-2.51 -0.42,-5.01 -1.47,-7.29 -1.05,-2.28 -2.62,-4.28 -4.59,-5.85 -1.96,-1.57 -4.27,-2.65 -6.72,-3.17 -2.46,-0.52 -5,-0.45 -7.43,0.18 -16.67,3.84 -29.98,45.43 -29.98,45.43 -0.19,-19.2 3.81,-38.22 11.71,-55.72 7.9,-17.5 19.52,-33.07 34.05,-45.63 19.12,-16.54 42.54,-27.34 67.53,-31.15 -18.2,10.37 -28.43,27.28 -28.43,41.47 0,22.84 13.76,20.07 17.83,16.71 v 131.81 c 0.69,1.65 1.6,3.21 2.69,4.64 1.82,2.52 4.21,4.56 6.98,5.96 2.77,1.4 5.83,2.12 8.94,2.1 13.77,0 31.64,-15.72 31.64,-15.72 V 166.07 c 0,-10.85 -8.18,-23.97 -16.38,-28.47 0,0 15.17,-2.69 26.87,6.27 2.2,-2.69 4.53,-5.25 7,-7.7 27.31,-26.8 53.04,-34.43 74.46,-38.25 0,0 -38.96,30.62 -38.96,71.7 0,30.55 0.79,105.05 0.79,105.05 14.46,13.96 35.95,-6.21 55.38,-26.1 -3.76,18.07 -20.42,64.42 -73.55,89.51 z"
+   id="path30901"
+   style="fill:#455a64;fill-opacity:1" />
+</g></g><style
+     type="text/css"
+     id="style3571">
+	.st0{fill:#000000;}
+</style><style
+     type="text/css"
+     id="style3681">
+	.st0{fill:#000000;}
+</style><style
+     type="text/css"
+     id="style26693">
+	.st0{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style26746">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style35389">
+	.st0{fill:#353535;}
+	.st1{enable-background:new    ;}
+	.st2{fill:#373737;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#373737;}
+	.st4{fill:#1A1A1A;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#353535;}
+	.st6{fill:#333333;}
+</style><style
+     type="text/css"
+     id="style1-3">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-0">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><style
+     type="text/css"
+     id="style1-6">
+	.st0{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-9">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-61">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><style
+     type="text/css"
+     id="style1-4">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-5">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><style
+     type="text/css"
+     id="style4519">
+	.st0{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style4572">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style30875">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style></svg>

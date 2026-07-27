@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="537.08789"
+   height="537.08783"
+   viewBox="10.24 10.24 142.10449 142.10454"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs2"><style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#6e6e6e; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style><filter
+       style="color-interpolation-filters:sRGB"
+       id="filter1466-3-1-9"
+       x="0"
+       y="0"
+       width="1"
+       height="1"><feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="7.1"
+         k2="1.3"
+         result="composite1"
+         id="feComposite1452-1-2-0"
+         k3="0"
+         k4="0" /><feColorMatrix
+         in="composite1"
+         values="1"
+         type="saturate"
+         result="colormatrix1"
+         id="feColorMatrix1454-4-8-6" /><feFlood
+         flood-opacity="1"
+         flood-color="rgb(85,82,76)"
+         result="flood1"
+         id="feFlood1456-6-8-8" /><feBlend
+         in="flood1"
+         in2="colormatrix1"
+         mode="multiply"
+         result="blend1"
+         id="feBlend1458-9-9-7" /><feBlend
+         in2="blend1"
+         mode="screen"
+         result="blend2"
+         id="feBlend1460-4-2-9" /><feColorMatrix
+         in="blend2"
+         values="1"
+         type="saturate"
+         result="colormatrix2"
+         id="feColorMatrix1462-2-8-0" /><feComposite
+         in="colormatrix2"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic"
+         id="feComposite1464-2-8-3" /><feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix67240-8-3" /><feColorMatrix
+         id="feColorMatrix67242-6-3"
+         type="hueRotate"
+         values="274"
+         result="color1"
+         in="fbSourceGraphic" /><feColorMatrix
+         id="feColorMatrix67244-8-7"
+         type="saturate"
+         values="0.418468"
+         result="fbSourceGraphic" /><feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix69136-3-3" /><feColorMatrix
+         id="feColorMatrix69138-8-2"
+         values="0.953617"
+         type="saturate"
+         result="colormatrix1"
+         in="fbSourceGraphic" /><feColorMatrix
+         id="feColorMatrix69140-3-6"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 7.50649 2.25805 2.08444 7.97601 0 "
+         in="fbSourceGraphic"
+         result="colormatrix2" /><feFlood
+         id="feFlood69142-3-5"
+         flood-color="rgb(0,255,255)"
+         flood-opacity="1"
+         result="flood" /><feComposite
+         in2="colormatrix2"
+         id="feComposite69144-3-2"
+         operator="out"
+         result="composite1" /><feMerge
+         id="feMerge69146-8-6"
+         result="merge"><feMergeNode
+           id="feMergeNode69148-0-5"
+           in="colormatrix1" /><feMergeNode
+           id="feMergeNode69150-4-8"
+           in="composite1" /></feMerge><feComposite
+         in2="fbSourceGraphic"
+         id="feComposite69152-7-7"
+         in="merge"
+         operator="in"
+         result="composite2" /></filter><style
+       id="style1">
+      .cls-1 {
+        fill: #ff585d;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #cb333b;
+      }
+
+      .cls-3 {
+        fill: #fefefe;
+      }
+
+      .cls-4 {
+        fill: #418fde;
+      }
+    </style><linearGradient
+       id="linearGradient4406"><stop
+         id="stop4408"
+         style="stop-color:#4e4e4e;stop-opacity:1"
+         offset="0" /><stop
+         id="stop4410"
+         style="stop-color:#141414;stop-opacity:1"
+         offset="1" /></linearGradient><linearGradient
+       id="linearGradient3320"><stop
+         offset="0"
+         style="stop-color:#4e4e4e;stop-opacity:1"
+         id="stop3323" /><stop
+         offset="1"
+         style="stop-color:#b9bac2;stop-opacity:1"
+         id="stop3325" /></linearGradient><linearGradient
+       id="linearGradient6213"><stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6215" /></linearGradient><style
+       id="current-color-scheme-7"
+       type="text/css">
+   .ColorScheme-Text { color:#6e6e6e; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style><style
+       id="style1-92">
+      .cls-1 {
+        fill: #ff585d;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #cb333b;
+      }
+
+      .cls-3 {
+        fill: #fefefe;
+      }
+
+      .cls-4 {
+        fill: #418fde;
+      }
+    </style><style
+       id="current-color-scheme-6"
+       type="text/css">
+   .ColorScheme-Text { color:#6e6e6e; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style><style
+       id="style1-7">
+      .cls-1 {
+        fill: #ff585d;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #cb333b;
+      }
+
+      .cls-3 {
+        fill: #fefefe;
+      }
+
+      .cls-4 {
+        fill: #418fde;
+      }
+    </style><style
+       id="current-color-scheme-4"
+       type="text/css">
+   .ColorScheme-Text { color:#6e6e6e; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style><style
+       id="style1-1">
+      .cls-1 {
+        fill: #ff585d;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #cb333b;
+      }
+
+      .cls-3 {
+        fill: #fefefe;
+      }
+
+      .cls-4 {
+        fill: #418fde;
+      }
+    </style><style
+       id="current-color-scheme-5"
+       type="text/css">
+   .ColorScheme-Text { color:#6e6e6e; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style><style
+       id="style1-34">
+      .cls-1 {
+        fill: #ff585d;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #cb333b;
+      }
+
+      .cls-3 {
+        fill: #fefefe;
+      }
+
+      .cls-4 {
+        fill: #418fde;
+      }
+    </style></defs><g
+     id="layer1"
+     transform="translate(-154.84726,-173.82949)"
+     style="display:inline"><g
+       id="g110395"
+       transform="matrix(1.1101915,0,0,1.1101915,165.08726,184.14879)"
+       style="display:inline"><path
+         id="rect110377"
+         style="opacity:1;fill:none"
+         d="M 0,-0.071428 H 128 V 127.92857 H 0 Z" /><g
+         id="g110393"
+         transform="matrix(1.9285714,0,0,1.9215686,2.2857152,1.4775925)"
+         style="display:inline"><path
+           id="rect110379"
+           style="opacity:0.2"
+           d="m 6.8,22 h 50.4 c 1.5512,0 2.8,1.2488 2.8,2.8 V 55.2 C 60,56.7512 58.7512,58 57.2,58 H 6.8 C 5.2488,58 4,56.7512 4,55.2 V 24.8 C 4,23.2488 5.2488,22 6.8,22 Z" /><path
+           style="fill:#e0a84f;fill-opacity:1"
+           d="M 4,46.2 C 4,47.751 5.2488,49 6.8,49 H 57.2 C 58.751,49 60,47.751 60,46.2 V 15.8 C 60,14.249 58.751,13 57.2,13 H 32 C 27.8,13 26.4,7 22.2,7 H 6.8 C 5.2488,7 4,8.2488 4,9.8"
+           id="path110381" /><path
+           id="rect110383"
+           style="opacity:0.2"
+           d="m 6.8,20 h 50.4 c 1.5512,0 2.8,1.2488 2.8,2.8 V 53.2 C 60,54.7512 58.7512,56 57.2,56 H 6.8 C 5.2488,56 4,54.7512 4,53.2 V 22.8 C 4,21.2488 5.2488,20 6.8,20 Z" /><path
+           id="rect110385"
+           style="fill:#e4e4e4"
+           d="m 10.8,16 h 42.4 c 1.5512,0 2.8,1.2488 2.8,2.8 V 35.2 C 56,36.7512 54.7512,38 53.2,38 H 10.8 C 9.2488,38 8,36.7512 8,35.2 V 18.8 C 8,17.2488 9.2488,16 10.8,16 Z" /><g
+           id="g110389"
+           transform="matrix(1.3999411,0,0,1.3845614,-1.5997633,-1.1528531)"
+           style="display:inline"><path
+             id="rect110387"
+             style="fill:#f9c470"
+             d="m 6,16 h 36 c 1.108,0 2,0.892 2,2 v 22 c 0,1.108 -0.892,2 -2,2 H 6 C 4.892,42 4,41.108 4,40 V 18 c 0,-1.108 0.892,-2 2,-2 z" /></g><path
+           style="display:inline;opacity:0.1;fill:#ffffff"
+           d="M 6.8008,7 C 5.2496,7 4,8.2496 4,9.8008 V 10.801 C 4,9.2496 5.2496,8 6.8008,8 H 22.199 c 4.2,0 5.601,6 9.801,6 H 57.199 C 58.75,14 60,15.25 60,16.801 v -1 C 60,14.25 58.75,13 57.199,13 H 32 C 27.8,13 26.399,7 22.199,7 Z"
+           id="path110391" /></g></g><g
+       style="display:inline;fill:none"
+       id="g10"
+       transform="matrix(0.26458337,0,0,0.26458337,164.73237,188.46169)"><path
+         d="m 339.15119,297.26564 c 3.40828,-2.97035 6.34438,-5.70479 8.97678,-8.27008 21.63165,-21.26636 30.37217,-39.76474 24.02779,-50.80282 -6.34439,-11.00452 -26.76154,-12.69222 -55.98632,-4.59095 l -2.39614,0.67522 1.99108,1.48535 c 13.06028,9.72153 20.11343,22.31275 20.88931,23.79776 3.13882,5.40108 -1.07959,14.95415 -11.50747,26.26238 -10.9004,-8.30398 -22.71193,-16.16934 -35.19834,-23.35914 -12.45252,-7.19014 -25.17519,-13.50235 -37.8304,-18.80208 4.58957,-14.684 10.73159,-23.08933 17.07598,-23.08933 1.61991,0 16.02993,-0.20236 30.94604,6.21121 l 2.29479,0.97893 -0.60743,-2.39683 C 294.23373,195.99765 282.591,179.1534 269.86833,179.1534 c -12.72267,0 -24.3654,16.84425 -31.95852,46.21186 -0.91114,3.54457 -1.78837,7.46031 -2.66596,11.8821 -4.25196,-1.45144 -8.06564,-2.63274 -11.64272,-3.64557 -29.22496,-8.10127 -49.64193,-6.44747 -55.98637,4.59095 -6.34444,11.00453 2.39601,29.53646 24.0279,50.80282 l 1.78862,1.75516 0.30367,-2.46393 c 1.88986,-16.13545 9.28056,-28.55786 10.1578,-30.00932 3.13846,-5.40107 13.4989,-6.54847 28.51635,-3.17305 -1.75482,13.60371 -2.63239,27.78128 -2.63239,42.16122 0,14.38029 0.87757,28.55751 2.63239,42.16122 -15.01745,3.37576 -25.37789,2.22803 -28.5499,-3.2405 -0.84369,-1.3501 -8.20062,-13.80608 -10.09045,-29.90796 l -0.30375,-2.46394 -1.78861,1.75516 c -21.63186,21.26637 -30.37234,39.76474 -24.02789,50.80282 6.34446,11.00451 26.76144,12.69223 55.98652,4.59095 3.54319,-0.97894 7.35687,-2.16058 11.64274,-3.64558 0.87723,4.4557 1.75481,8.37144 2.66595,11.88211 7.59312,29.36764 19.23586,46.21186 31.95853,46.21186 12.72266,0 24.36539,-16.84422 31.95852,-46.21186 l 0.60743,-2.39683 -2.29479,0.97893 c -14.95001,6.44747 -29.36003,6.24476 -31.0474,6.21121 -6.24337,0 -12.41895,-8.40534 -17.00852,-23.08933 12.65521,-5.29973 25.37788,-11.61194 37.8304,-18.80209 12.45285,-7.18979 24.29794,-15.05515 35.19834,-23.35913 10.42788,11.30823 14.61239,20.8613 11.47393,26.32983 -0.77623,1.41755 -7.82939,13.97488 -20.85577,23.7303 l -1.99108,1.48536 2.39614,0.67522 c 29.22478,8.10128 49.64193,6.44747 55.98632,-4.59095 6.34438,-11.00453 -2.39614,-29.53645 -24.02779,-50.80282 -2.5985,-2.56529 -5.5685,-5.29973 -8.97678,-8.27008 z m -26.08667,0 c -8.90898,7.52775 -19.53956,14.92025 -30.84468,21.46907 -11.30512,6.51458 -23.01565,12.05056 -33.9835,15.96629 -2.05853,-11.47703 -3.17202,-24.37162 -3.17202,-37.43536 0,-13.06339 1.07993,-25.95833 3.17202,-37.43537 10.96785,3.94963 22.71193,9.45173 33.9835,15.96665 11.30512,6.51492 21.9357,13.94131 30.84468,21.46872 z"
+         fill="#000000"
+         id="path1-36"
+         style="display:inline;stroke-width:0.345913" /></g></g><style
+     type="text/css"
+     id="style3571">
+	.st0{fill:#000000;}
+</style><style
+     type="text/css"
+     id="style3681">
+	.st0{fill:#000000;}
+</style><style
+     type="text/css"
+     id="style26693">
+	.st0{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style26746">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style35389">
+	.st0{fill:#353535;}
+	.st1{enable-background:new    ;}
+	.st2{fill:#373737;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#373737;}
+	.st4{fill:#1A1A1A;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#353535;}
+	.st6{fill:#333333;}
+</style><style
+     type="text/css"
+     id="style1-3">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-0">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><style
+     type="text/css"
+     id="style1-6">
+	.st0{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-9">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-61">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><style
+     type="text/css"
+     id="style1-4">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-5">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><style
+     type="text/css"
+     id="style4519">
+	.st0{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style4572">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style30875">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style3571-5">
+	.st0{fill:#000000;}
+</style><style
+     type="text/css"
+     id="style3681-6">
+	.st0{fill:#000000;}
+</style><style
+     type="text/css"
+     id="style26693-9">
+	.st0{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style26746-3">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style35389-7">
+	.st0{fill:#353535;}
+	.st1{enable-background:new    ;}
+	.st2{fill:#373737;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#373737;}
+	.st4{fill:#1A1A1A;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#353535;}
+	.st6{fill:#333333;}
+</style><style
+     type="text/css"
+     id="style1-3-4">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-0-5">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><style
+     type="text/css"
+     id="style1-6-2">
+	.st0{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-9-5">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-61-4">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><style
+     type="text/css"
+     id="style1-4-7">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-5-4">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><style
+     type="text/css"
+     id="style4519-4">
+	.st0{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style4572-3">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style30875-0">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style3571-0">
+	.st0{fill:#000000;}
+</style><style
+     type="text/css"
+     id="style3681-9">
+	.st0{fill:#000000;}
+</style><style
+     type="text/css"
+     id="style26693-6">
+	.st0{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style26746-38">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style35389-5">
+	.st0{fill:#353535;}
+	.st1{enable-background:new    ;}
+	.st2{fill:#373737;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#373737;}
+	.st4{fill:#1A1A1A;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#353535;}
+	.st6{fill:#333333;}
+</style><style
+     type="text/css"
+     id="style1-3-6">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-0-1">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><style
+     type="text/css"
+     id="style1-6-1">
+	.st0{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-9-59">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-61-8">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><style
+     type="text/css"
+     id="style1-4-4">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-5-8">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><style
+     type="text/css"
+     id="style4519-1">
+	.st0{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style4572-0">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style30875-3">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style3571-8">
+	.st0{fill:#000000;}
+</style><style
+     type="text/css"
+     id="style3681-1">
+	.st0{fill:#000000;}
+</style><style
+     type="text/css"
+     id="style26693-2">
+	.st0{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style26746-8">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style35389-9">
+	.st0{fill:#353535;}
+	.st1{enable-background:new    ;}
+	.st2{fill:#373737;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#373737;}
+	.st4{fill:#1A1A1A;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#353535;}
+	.st6{fill:#333333;}
+</style><style
+     type="text/css"
+     id="style1-3-3">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-0-6">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><style
+     type="text/css"
+     id="style1-6-8">
+	.st0{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-9-0">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-61-2">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><style
+     type="text/css"
+     id="style1-4-1">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-5-0">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><style
+     type="text/css"
+     id="style4519-5">
+	.st0{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style4572-1">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style30875-1">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style3571-7">
+	.st0{fill:#000000;}
+</style><style
+     type="text/css"
+     id="style3681-5">
+	.st0{fill:#000000;}
+</style><style
+     type="text/css"
+     id="style26693-8">
+	.st0{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style26746-7">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style35389-0">
+	.st0{fill:#353535;}
+	.st1{enable-background:new    ;}
+	.st2{fill:#373737;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#373737;}
+	.st4{fill:#1A1A1A;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#353535;}
+	.st6{fill:#333333;}
+</style><style
+     type="text/css"
+     id="style1-3-48">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-0-0">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><style
+     type="text/css"
+     id="style1-6-4">
+	.st0{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-9-2">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-61-9">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><style
+     type="text/css"
+     id="style1-4-6">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-5-1">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><style
+     type="text/css"
+     id="style4519-0">
+	.st0{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style4572-4">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style30875-2">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style></svg>

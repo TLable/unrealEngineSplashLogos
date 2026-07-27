@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="531.63"
+   height="572.448"
+   viewBox="10.24 10.24 140.66045 151.4602"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   inkscape:export-filename="../loganmint-Y_Sand-unrealGameEngine/loganmint-Y-Sand-UE-folder-white_1AV1A.svg"
+   inkscape:export-xdpi="383.92001"
+   inkscape:export-ydpi="383.92001"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="loganmint-unrealGameEngine-2023-2026-Icons-Art-7AV2A.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.25"
+     inkscape:cx="1590"
+     inkscape:cy="-100"
+     inkscape:window-width="1699"
+     inkscape:window-height="1368"
+     inkscape:window-x="2781"
+     inkscape:window-y="2160"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showguides="false" /><defs
+     id="defs2"><style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#6e6e6e; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style><filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Channel Painting"
+       id="filter1466-3-1-9"
+       x="0"
+       y="0"
+       width="1"
+       height="1"><feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="7.1"
+         k2="1.3"
+         result="composite1"
+         id="feComposite1452-1-2-0"
+         k3="0"
+         k4="0" /><feColorMatrix
+         in="composite1"
+         values="1"
+         type="saturate"
+         result="colormatrix1"
+         id="feColorMatrix1454-4-8-6" /><feFlood
+         flood-opacity="1"
+         flood-color="rgb(85,82,76)"
+         result="flood1"
+         id="feFlood1456-6-8-8" /><feBlend
+         in="flood1"
+         in2="colormatrix1"
+         mode="multiply"
+         result="blend1"
+         id="feBlend1458-9-9-7" /><feBlend
+         in2="blend1"
+         mode="screen"
+         result="blend2"
+         id="feBlend1460-4-2-9" /><feColorMatrix
+         in="blend2"
+         values="1"
+         type="saturate"
+         result="colormatrix2"
+         id="feColorMatrix1462-2-8-0" /><feComposite
+         in="colormatrix2"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic"
+         id="feComposite1464-2-8-3" /><feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix67240-8-3" /><feColorMatrix
+         id="feColorMatrix67242-6-3"
+         type="hueRotate"
+         values="274"
+         result="color1"
+         in="fbSourceGraphic" /><feColorMatrix
+         id="feColorMatrix67244-8-7"
+         type="saturate"
+         values="0.418468"
+         result="fbSourceGraphic" /><feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix69136-3-3" /><feColorMatrix
+         id="feColorMatrix69138-8-2"
+         values="0.953617"
+         type="saturate"
+         result="colormatrix1"
+         in="fbSourceGraphic" /><feColorMatrix
+         id="feColorMatrix69140-3-6"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 7.50649 2.25805 2.08444 7.97601 0 "
+         in="fbSourceGraphic"
+         result="colormatrix2" /><feFlood
+         id="feFlood69142-3-5"
+         flood-color="rgb(0,255,255)"
+         flood-opacity="1"
+         result="flood" /><feComposite
+         in2="colormatrix2"
+         id="feComposite69144-3-2"
+         operator="out"
+         result="composite1" /><feMerge
+         id="feMerge69146-8-6"
+         result="merge"><feMergeNode
+           id="feMergeNode69148-0-5"
+           in="colormatrix1" /><feMergeNode
+           id="feMergeNode69150-4-8"
+           in="composite1" /></feMerge><feComposite
+         in2="fbSourceGraphic"
+         id="feComposite69152-7-7"
+         in="merge"
+         operator="in"
+         result="composite2" /></filter><style
+       id="style1">
+      .cls-1 {
+        fill: #ff585d;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #cb333b;
+      }
+
+      .cls-3 {
+        fill: #fefefe;
+      }
+
+      .cls-4 {
+        fill: #418fde;
+      }
+    </style><linearGradient
+       id="linearGradient4406"
+       inkscape:swatch="gradient"><stop
+         id="stop4408"
+         style="stop-color:#4e4e4e;stop-opacity:1"
+         offset="0" /><stop
+         id="stop4410"
+         style="stop-color:#141414;stop-opacity:1"
+         offset="1" /></linearGradient><linearGradient
+       id="linearGradient3320"
+       inkscape:swatch="gradient"><stop
+         offset="0"
+         style="stop-color:#4e4e4e;stop-opacity:1"
+         id="stop3323" /><stop
+         offset="1"
+         style="stop-color:#b9bac2;stop-opacity:1"
+         id="stop3325" /></linearGradient><linearGradient
+       id="linearGradient6213"
+       inkscape:swatch="solid"><stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6215" /></linearGradient></defs><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-154.77554,-183.62905)"
+     style="display:inline"><g
+       id="g137"
+       inkscape:export-filename="../../../../../Documents/UE-Logotype-2027-2028-SplashScreen-Vertical-White_1AV-2A.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="matrix(0.26458334,0,0,0.26458334,165.01554,174.50632)"
+       inkscape:label="g137  UE 6 logo 1AV 1V">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<g
+   id="g91802"><path
+     class="st0"
+     d="m 155.10531,160.45231 c 3.11322,-0.6604 5.53912,-0.62213 11.72681,-0.25805 11.69576,2.59077 19.36754,12.86874 19.05754,21.73874 0.45008,77.55592 0.29554,68.10538 0.13934,91.39509 -0.27117,9.79626 -9.17799,18.98254 -16.80311,21.29024 -5.75678,1.22817 -9.12765,0.96211 -12.35802,0.88539 19.7656,29.91273 48.72718,49.93869 94.42222,54.55635 l 44.32272,-44.26842 25.04311,33.21433 c 50.06519,-23.61782 61.67718,-55.55363 66.8927,-67.92831 -22.62931,13.31956 -41.07078,-3.7185 -41.56857,-12.47709 0,0 -0.10742,-64.96548 -0.17192,-95.8938 -0.0763,-36.5704 25.89929,-56.41387 48.88672,-60.78546 -6.95237,-0.65729 -38.18038,-6.97092 -71.58453,20.84667 -2.46997,2.44992 -10.96087,10.06192 -15.53628,19.10663 -15.09546,-11.15005 -33.01315,-11.02643 -33.01315,-11.02643 15.65638,7.00588 17.75904,17.33195 17.76474,21.9443 0.0485,39.22496 -0.39497,112.89563 -0.42688,115.03909 0.87647,3.91427 -8.30923,23.4078 -27.01797,22.39374 -9.55614,-0.0223 -20.56757,-7.56007 -25.69935,-18.55612 -1.97296,-4.233 -1.26208,-107.48898 -0.70063,-118.88614 0.001,-5.53647 3.2853,-13.42813 9.56016,-17.68076 -31.74196,9.55606 -38.38466,-18.58621 -38.36583,-24.17559 0.0226,-6.72072 4.73624,-17.251409 13.47158,-22.578087 -18.76732,3.485895 -40.75535,19.467067 -53.16451,32.322587 -25.77715,26.74578 -30.17728,46.62473 -30.33176,48.68206 1.83684,-1.76584 4.31793,-6.53849 15.45487,-8.90096 z"
+     id="path109"
+     inkscape:label="path109"
+     style="display:inline;opacity:1;fill:#455a64;fill-opacity:1"
+     sodipodi:nodetypes="sccccccccccsccccscccccscccs"
+     inkscape:export-filename="../UE-Logotype-2027-2028-SplashScreen-Vertical-White.svg"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" /><path
+     class="st0"
+     d="m 60.9,540 c 0,12.2 -6.7,20.1 -20.2,20.1 -13.5,0 -20.3,-7.9 -20.3,-20.1 V 504.6 H 0 v 37 c 0,21.3 14.6,35.3 40.7,35.3 26.1,0 40.6,-14 40.6,-35.3 v -37 H 60.9 Z"
+     id="path113"
+     style="display:inline;fill:#455a64;fill-opacity:1"
+     inkscape:export-filename="../../../../../Documents/UE-Logotype-2027-2028-SplashScreen-Vertical-White.svg"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" /><polygon
+     class="st0"
+     points="177.66,504.6 157.96,504.6 157.96,547.4 116.46,504.6 94.86,504.6 94.86,574.6 114.56,574.6 114.56,528.6 159.76,574.6 177.66,574.6 "
+     id="polygon115"
+     style="display:inline;fill:#455a64;fill-opacity:1" /><path
+     class="st0"
+     d="m 273.1,528.5 c 0,-16 -13.9,-23.9 -31.8,-23.9 h -49.1 v 70 h 20.3 v -22.1 h 20.6 l 18.5,22.1 h 23.7 l -20.6,-23.8 c 11,-3.2 18.4,-10.6 18.4,-22.3 z m -33.3,9.2 h -27.4 v -17.6 h 27.4 c 7.3,0 12.6,2 12.6,8.8 0,6.8 -5.3,8.8 -12.6,8.8 z"
+     id="path117"
+     style="display:inline;fill:#455a64;fill-opacity:1" /><polygon
+     class="st0"
+     points="357.52,504.6 283.91,504.6 283.91,574.6 358.62,574.6 358.62,559 304.01,559 304.01,546.6 348.12,546.6 348.12,531.7 304.01,531.7 304.01,520.2 357.52,520.2 "
+     id="polygon119"
+     style="display:inline;fill:#455a64;fill-opacity:1" /><path
+     class="st0"
+     d="m 399.32,504.6 -36.2,70 h 21.4 l 6.6,-13.4 h 38.4 l 6.6,13.4 h 21.7 l -36.2,-70 z m -1.2,42.1 12.2,-24.8 12.1,24.8 z"
+     id="path121"
+     style="display:inline;fill:#455a64;fill-opacity:1" /><polygon
+     class="st0"
+     points="464.13,504.6 464.13,574.6 531.63,574.6 531.63,558.2 484.53,558.2 484.53,504.6 "
+     id="polygon123"
+     style="display:inline;fill:#455a64;fill-opacity:1" /><polygon
+     class="st0"
+     points="105.67,644.1 154.96,644.1 154.96,633.81 118.93,633.81 118.93,625.63 148.04,625.63 148.04,615.79 118.93,615.79 118.93,608.2 154.24,608.2 154.24,597.91 105.67,597.91 "
+     id="polygon125"
+     style="display:inline;fill:#455a64;fill-opacity:1" /><polygon
+     class="st0"
+     points="204.12,626.15 176.73,597.91 162.48,597.91 162.48,644.1 175.48,644.1 175.48,613.75 205.31,644.1 217.12,644.1 217.12,597.91 204.12,597.91 "
+     id="polygon127"
+     style="display:inline;fill:#455a64;fill-opacity:1" /><path
+     class="st0"
+     d="m 253.48,626.81 h 15.31 v 4.16 c -3.23,2.97 -7.72,4.09 -13.4,4.09 -11.22,0 -17.55,-4.95 -17.55,-14.06 0,-9.04 6.14,-13.99 17.36,-13.99 6.2,0 10.36,1.58 14.32,5.15 l 9.83,-7.26 c -4.82,-4.49 -13.07,-8.51 -24.48,-8.51 -18.94,0 -30.69,8.98 -30.69,24.62 0,15.64 11.75,24.62 30.69,24.62 12.34,0 21.45,-4.09 26.4,-10.23 v -18.02 h -27.78 v 9.43 z"
+     id="path129-36"
+     style="display:inline;fill:#455a64;fill-opacity:1" /><path
+     class="st0"
+     d="m 431.23501,102.99715 c 5.60233,-0.30604 10.6285,4.17782 10.63571,8.61064 0.28161,6.86966 -3.84749,9.30469 -9.16806,10.1343 -7.18658,-0.5965 -8.66705,-4.21927 -9.34056,-7.00549 -1.38998,-5.75021 1.84103,-13.96236 8.39397,-24.074808 6.2703,-9.676286 -1.80658,2.35354 11.77707,-17.435114 l -17.15844,-0.04469 c -5.73398,9.36148 -4.77484,6.57126 -11.66853,18.331174 -6.48233,11.058168 -6.04574,12.247808 -6.80484,17.810998 -2.26924,16.63047 9.31834,26.68245 25.39406,26.68245 10.47383,0 17.25321,-5.54535 21.45462,-13.34253 5.62689,-14.61497 -0.93852,-29.441968 -16.65443,-31.799895 l -6.33951,-0.202393 c -3.48138,5.253851 -7.97121,13.218638 -8.62514,19.619888 0.76681,-4.00996 3.73093,-5.71787 3.73093,-5.71787 1.27403,-0.8298 2.66405,-1.46537 4.37315,-1.56666 z"
+     id="path129-1"
+     style="display:inline;opacity:1;fill:#455a64;fill-opacity:1;stroke-width:1.0382"
+     sodipodi:nodetypes="cccssccssscccccc" /><rect
+     x="289.29999"
+     y="597.90997"
+     class="st0"
+     width="13.46"
+     height="46.200001"
+     id="rect131"
+     style="display:inline;fill:#455a64;fill-opacity:1" /><polygon
+     class="st0"
+     points="353.97,626.15 326.58,597.91 312.33,597.91 312.33,644.1 325.33,644.1 325.33,613.75 355.16,644.1 366.97,644.1 366.97,597.91 353.97,597.91 "
+     id="polygon133"
+     style="display:inline;fill:#455a64;fill-opacity:1" /><polygon
+     class="st0"
+     points="376.67,644.1 425.97,644.1 425.97,633.81 389.94,633.81 389.94,625.63 419.04,625.63 419.04,615.79 389.94,615.79 389.94,608.2 425.24,608.2 425.24,597.91 376.67,597.91 "
+     id="polygon135"
+     style="display:inline;fill:#455a64;fill-opacity:1"
+     inkscape:label="polygon135" /></g>
+</g></g><style
+     type="text/css"
+     id="style3571">
+	.st0{fill:#000000;}
+</style><style
+     type="text/css"
+     id="style3681">
+	.st0{fill:#000000;}
+</style><style
+     type="text/css"
+     id="style26693">
+	.st0{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style26746">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style35389">
+	.st0{fill:#353535;}
+	.st1{enable-background:new    ;}
+	.st2{fill:#373737;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#373737;}
+	.st4{fill:#1A1A1A;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#353535;}
+	.st6{fill:#333333;}
+</style><style
+     type="text/css"
+     id="style1-3">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-0">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><style
+     type="text/css"
+     id="style1-6">
+	.st0{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-9">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-61">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><style
+     type="text/css"
+     id="style1-4">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-5">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><style
+     type="text/css"
+     id="style4519">
+	.st0{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style4572">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style30875">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style></svg>
